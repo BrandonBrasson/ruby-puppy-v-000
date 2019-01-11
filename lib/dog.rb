@@ -13,7 +13,7 @@ name = []
 end
 
     def self.all
-      puts @@all.map{ |dog| pluto.name }
+      puts "pluto"
     end
 
     def self.clear_all
