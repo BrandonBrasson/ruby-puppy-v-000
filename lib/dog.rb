@@ -1,11 +1,6 @@
 class Dog
 @@all = []
 
-  def initialize(n)
-    @@all = n
-  end
-
-
     def initialize(name)
       @name = name
       @@all << self
