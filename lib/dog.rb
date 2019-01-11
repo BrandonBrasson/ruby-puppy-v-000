@@ -7,8 +7,11 @@ class Dog
       @@all << self
     end
 
+def name
+end
+
 def self.pets(name)
-pets = name
+@name = name
 name = []
 end
 
