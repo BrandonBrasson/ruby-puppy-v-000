@@ -1,12 +1,12 @@
 class Dog
 @@all = []
 
-  def initialize(name)
-    @@all = name
+  def initialize(n)
+    @@all = n
   end
 
-  def pets(name)
-
+  def pets(n)
+name
 end
 
 
