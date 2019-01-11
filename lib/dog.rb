@@ -5,10 +5,10 @@ class Dog
     @@all = name
   end
 
-  def name(name)
+  def pets(name)
 
 end
 
-  
+
 
 end
